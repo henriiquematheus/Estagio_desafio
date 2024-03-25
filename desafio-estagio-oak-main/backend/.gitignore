@@ -1,0 +1,18 @@
+# Arquivos de compilação e binários
+*.exe
+*.exe~
+*.dll
+*.so
+*.dylib
+
+# Diretórios de construção
+bin/
+obj/
+pkg/
+
+# Arquivos de configuração
+.idea/
+.vscode/
+
+# Arquivos de dependência
+vendor/
